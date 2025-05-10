@@ -1,5 +1,4 @@
 """Function to process image and create a blog"""
-
 import boto3
 import json
 

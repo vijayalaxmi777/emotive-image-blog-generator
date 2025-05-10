@@ -2,7 +2,7 @@
     "project_prefix": "Emotive Image Blog Generator",
     "input_bucket_config":{
         "name": "emotive-image-to-blog-generator-input-bucket",
-        "object_key": "source"
+        "object_key": "20230910_165848.jpg"
     },
     "bedrock_model": {
         "model_id": "amazon.nova-micro-v1:0"

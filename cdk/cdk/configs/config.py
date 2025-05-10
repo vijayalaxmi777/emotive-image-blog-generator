@@ -4,8 +4,9 @@ import json
 
 
 class Config:
-
+    """Configurations"""
     def deploy_environment():
+        """Deployment as per environment"""
 
         dirname = os.path.dirname(__file__)
         # Load variables common to all environment
